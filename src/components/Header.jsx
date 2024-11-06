@@ -12,7 +12,7 @@ function Header() {
         </div>
 
         <div className="w-1/3 h-full relative flex ">
-          <div className="sticky px-4  z-10 bg-none">
+          <div className="sticky  z-10 bg-none">
             <Theme />
           </div>
         </div>
