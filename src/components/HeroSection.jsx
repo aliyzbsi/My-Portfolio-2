@@ -1,7 +1,7 @@
 import { useLanguage } from "../context/LanguageContext";
 import { useMode } from "../context/ThemeContext";
 import { FaLinkedin } from "react-icons/fa";
-
+import heroImage from "../../public/assets/yeniResimler/myPhoto1.png";
 import { FaGithub } from "react-icons/fa";
 function HeroSection() {
   const { t } = useLanguage();
@@ -46,7 +46,7 @@ function HeroSection() {
 
           <div className="w-full md:w-2/5 px-4  flex items-start justify-start">
             <img
-              src="../../public/assets/yeniResimler/myPhoto1.png"
+              src={heroImage}
               alt="Developer"
               className="rounded-lg shadow-lg w-full h-auto "
             />
