@@ -46,7 +46,7 @@ function Profile() {
         <h1 className="text-[36px]   font-semibold text-[#CBF281] ">
           {t("profileTitle")}
         </h1>
-        <div className="flex flex-col  items-center md:flex-row  gap-4 relative text-white">
+        <div className="flex flex-col   items-center lg:flex-row  gap-4 relative text-white">
           <div className="relative flex-1 mx-auto w-full md:max-w-md lg:max-w-lg ">
             <div className=" relative rounded-xl z-10 flex flex-col items-start gap-10   ">
               <h2 className=" font-semibold  text-lg sm:text-xl">
