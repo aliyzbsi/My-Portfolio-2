@@ -1,0 +1,67 @@
+{
+  "entry": "Hi!",
+  "headerAboutMe": "  I am a Frontend Developer",
+  "headerText": "Currently Freelancing for UX, UI, & Web Design Project. Invite me to join your team ",
+  "skillsTitle": "Skills",
+  "profileTitle": "Profile",
+  "basicInfo": "Basic Information",
+  "projectTitle": "PROJECTS",
+  "dateOfBirthTitle": "Date Of Birth",
+  "residenceTitle": "Residance",
+  "educationTitle": "Education",
+  "preferredRoleTitle": "Preferred Role",
+  "aboutMeTitle": "About me",
+  "footerText": "Send me a message!",
+  "footerAltText": "Got a question or proposal, or just wantto say hello? Go ahead.",
+  "github": "View on Github",
+  "goApp": "Go to App",
+  "email": "aliyzbsi68@hotmail.com",
+  "cv": "Resume",
+  "projects": [
+    {
+      "id": 2,
+      "name": "Workintech",
+      "description": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible.",
+      "url": "https://ecommerceformypractice.vercel.app/",
+      "githubUrl": "https://github.com/aliyzbsi/E-commerce-for-begin",
+      "dateCreated": "2024-11-04",
+      "technologies": [
+        "React",
+        "Vercel",
+        "React Hook Form",
+        "Axios",
+        "Tailwind",
+        "Tanstack",
+        "Router",
+        "Toastify"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Journey",
+      "description": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible.",
+      "url": "https://alinintodolisti.vercel.app",
+      "githubUrl": "https://github.com/aliyzbsi/ToDoApp",
+      "dateCreated": "2023-11-03",
+      "technologies": [
+        "React",
+
+        "React Hook Form",
+        "Router",
+        "Toastify",
+
+        "Vercel"
+      ]
+    }
+  ],
+  "skills": ["Javascript", "react", "redux", "node", "vs code", "figma"],
+  "personelInfo": [
+    {
+      "dateOfBirth": "20/09/1999",
+      "residenceAdr": "Aksaray",
+      "preferredRole": ["Frontend", "UI", "Backend"],
+      "education": "Firat University, Software Engineering, Bachelor Degree, 2022",
+      "aboutMe": "I was born on January 20, 1999, in Ortaköy, Aksaray, where I spent the early years of my education. I completed my undergraduate studies in Software Engineering at Fırat University, graduating in 2022 with a GPA of 2.76. Throughout my studies, I explored different programming languages, developed projects, and gained experience through internships. After graduation, I fulfilled my military service at the MSU Information Technology Department, serving as the Testing and Evaluation Supervisor. Now, I am focused on advancing my career in software development by learning new technologies."
+    }
+  ]
+}

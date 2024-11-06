@@ -1,0 +1,68 @@
+{
+  "entry": "Merhaba!",
+  "headerAboutMe": "Ben bir Frontend Geliştiriciyim",
+  "headerText": "Şu anda UX, UI ve Web Tasarım projeleri için serbest çalışıyorum. Beni ekibinize davet edin ",
+  "skillsTitle": "Yetenekler",
+  "profileTitle": "Profil",
+  "basicInfo": "Temel Bilgiler",
+  "projectTitle": "PROJELER",
+  "dateOfBirthTitle": "Doğum Tarihi",
+  "residenceTitle": "İkamet",
+  "educationTitle": "Eğitim",
+  "preferredRoleTitle": "Tercih Edilen Rol",
+  "aboutMeTitle": "Hakkımda",
+  "footerText": "Bana mesaj gönderin.",
+  "footerAltText": "Bir sorum veya önerim var ya da sadece merhaba demek için mi? Devam et.",
+  "github": "GitHub'da Görüntüle",
+  "goApp": "Uygulamaya Git",
+  "email": "aliyzbsi68@hotmail.com",
+  "cv": "Özgeçmiş",
+
+  "projects": [
+    {
+      "id": 2,
+      "name": "Workintech",
+      "description": " 'WORKINTECH COMMERCE' web sitesi, e-ticaret uygulamalarının işleyişini göstermek amacıyla oluşturulmuş bir platformdur. Kullanıcılara ürün listeleme, alışveriş sepeti ve sipariş yönetimi gibi işlevler sunarak eğitici bir deneyim sağlamaktadır. Frontend kısmı için React ve geliştirme ortamı olarak Vite kullanılmıştır. Daha fazla bilgi için siteyi ziyaret edebilirsiniz",
+      "url": "https://ecommerceformypractice.vercel.app/",
+      "githubUrl": "https://github.com/aliyzbsi/E-commerce-for-begin",
+      "dateCreated": "2024-11-04",
+      "technologies": [
+        "React",
+        "Vercel",
+        "React Hook Form",
+        "Axios",
+        "Tailwind",
+        "Tanstack",
+        "Router",
+        "Toastify"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Journey",
+      "description": " 'alinintodolisti' adlı web sitesi, kullanıcıların görevlerini organize etmeleri için basit ve işlevsel bir yapılacaklar listesi oluşturma deneyimi sunmaktadır. Bu tür uygulamalar, kullanıcıların yapılacak görevleri düzenlemelerine, tamamladıklarında işaretlemelerine ve ilerlemelerini görmelerine olanak tanır.",
+      "url": "https://alinintodolisti.vercel.app",
+      "githubUrl": "https://github.com/aliyzbsi/ToDoApp",
+      "dateCreated": "2023-11-03",
+      "technologies": [
+        "React",
+
+        "React Hook Form",
+        "Router",
+        "Toastify",
+
+        "Vercel"
+      ]
+    }
+  ],
+
+  "personelInfo": [
+    {
+      "dateOfBirth": "20/09/1999",
+      "residenceAdr": "Aksaray",
+      "preferredRole": ["Frontend", "UI", "Backend"],
+      "education": "Fırat Üniversitesi, Yazılım Mühendisliği, Lisans Diploması, 2022",
+      "aboutMe": "20 Ocak 1999’da Aksaray/Ortaköy’de doğdum ve eğitim hayatımın ilk yıllarını burada geçirdim. Lisans eğitimimi Fırat Üniversitesi Yazılım Mühendisliği bölümünde tamamladım ve 2022’de 2.76 ortalama ile mezun oldum. Eğitim sürecimde farklı yazılım dilleri üzerinde araştırmalar yaparak, projeler geliştirerek ve stajlar yaparak kendimi geliştirme fırsatı buldum. Mezuniyetin ardından, MSÜ Bilgi İşlem Daire Başkanlığı SOME Şubesi’nde Test ve Değerlendirme Kısım Amiri olarak askerlik görevimi tamamladım. Şimdi ise yazılım alanında yeni teknolojiler öğrenerek kariyerimi ileriye taşımayı hedefliyorum.   "
+    }
+  ]
+}
