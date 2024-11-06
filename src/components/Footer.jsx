@@ -11,7 +11,7 @@ function Footer() {
   const { t } = useLanguage();
   return (
     <footer className=" dark:bg-[#252128] flex justify-center ">
-      <div className="flex flex-col items-center justify-center p-20  gap-8 w-1/2 text-center ">
+      <div className="flex flex-col items-center justify-center p-20  gap-8 w-full md:w-1/2 text-center ">
         <h1 className="font-[700] text-[40px] text-center w-80 md:w-144 text-[#4731D3] dark:text-[#8F88FF]">
           {t("footerText")}
         </h1>
