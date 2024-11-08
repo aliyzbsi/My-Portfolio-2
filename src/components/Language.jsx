@@ -17,7 +17,7 @@ function Language() {
   };
   return (
     <div className="flex p-2 items-center">
-      {lang === "tr" ? (
+      {lang === "en" ? (
         <button onClick={translateFn} className="text-xs dark:text-white">
           <span className="font-semibold text-[#CBF281] hover:underline">
             TÜRKÇE

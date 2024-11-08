@@ -24,15 +24,14 @@ function HeroSection() {
       }
     >
       <div className="flex flex-col  w-full text-white gap-8 md:px-20">
-        <p className="font-[700] text-[32px] text-[#CBF281]">almila</p>
+        <p className="font-[700] text-[32px] text-[#CBF281]">Ali Yüzbaşı</p>
         <div className="flex h-full gap-10 items-center md:flex-row flex-col">
           <div className="w-full md:w-3/5  py-4 ">
             <p className="text-[54px] w-3/4 font-[700] text-[#CBF281]">
-              {t("headerAboutMe")}
+              {t("secondHeaderAboutMe")}
             </p>
             <p className="mt-4 text-[24px] font-[400]">
-              ...who likes to craft solid and scalable frontend products with
-              great user experiences.
+              {t("secondHeaderText")}
             </p>
             <div className="mt-8 flex gap-4">
               <button className="bg-white flex items-center gap-2 text-black py-3 px-4 rounded">
