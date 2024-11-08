@@ -19,9 +19,26 @@
   "cv": "Resume",
   "projects": [
     {
+      "id": 1,
+      "name": "Teknolojik Pizza",
+      "description": "The 'Teknolojik Pizza' website was created to provide a thematic experience focused on the digitalization of the food industry, specifically for pizza ordering or delivery simulation. Designed to help users better understand the online food ordering process, the site incorporates an interactive structure to enhance user engagement.",
+      "url": "https://teknolojik-pizza.vercel.app",
+      "githubUrl": "https://github.com/aliyzbsi/teknolojik-pizza",
+      "dateCreated": "2024-10-12",
+      "technologies": [
+        "React",
+        "Cypress",
+        "Tailwind",
+        "Vercel",
+        "Axios",
+        "Toastify",
+        "Router"
+      ]
+    },
+    {
       "id": 2,
-      "name": "Workintech",
-      "description": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible.",
+      "name": "WORKINTECH COMMERCE",
+      "description": " The website 'WORKINTECH COMMERCE' serves as a practical demonstration of an e-commerce platform, showcasing various functionalities such as product listings, a shopping cart, and order management. It is designed for educational purposes, allowing users to understand how e-commerce applications function. The site is built using modern web technologies, including React for the frontend and Vite for development. For further details, you can visit the site directly",
       "url": "https://ecommerceformypractice.vercel.app/",
       "githubUrl": "https://github.com/aliyzbsi/E-commerce-for-begin",
       "dateCreated": "2024-11-04",
@@ -38,8 +55,8 @@
     },
     {
       "id": 3,
-      "name": "Journey",
-      "description": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible.",
+      "name": "To-Do App",
+      "description": " The website 'alinintodolisti' provides a simple and functional to-do list experience for users to organize their tasks. Such applications allow users to organize their tasks, mark them as completed, and track their progress.",
       "url": "https://alinintodolisti.vercel.app",
       "githubUrl": "https://github.com/aliyzbsi/ToDoApp",
       "dateCreated": "2023-11-03",
@@ -52,6 +69,24 @@
 
         "Vercel"
       ]
+    },
+    {
+      "id": 4,
+      "name": "Ali Yüzbaşı Portfolio",
+      "description": "The platform is designed to showcase the developer's skills and projects. It provides users with a detailed presentation of the developer's projects, technical abilities, and experiences, allowing potential employers and clients to effectively get to know the developer.",
+      "url": "https://example.com/proje2",
+      "githubUrl": "https://github.com/aliyzbsi/movieDB-with-Redux",
+      "dateCreated": "2024-11-04",
+      "technologies": ["React", "Tailwind", "Vercel"]
+    },
+    {
+      "id": 5,
+      "name": "MovieDB",
+      "description": "The site is a platform that allows users to explore and manage movie data. It aims to enhance user experience by offering functions such as searching, listing, and accessing detailed information about films. The developer has utilized modern web technologies like React and Redux to create a dynamic and interactive interface. The application retrieves updated content via an API. For more information, you can visit the site.",
+      "url": "https://moviedb-redux.onrender.com",
+      "githubUrl": "https://github.com/aliyzbsi/movieDB-with-Redux",
+      "dateCreated": "2023-01-01",
+      "technologies": ["React", "Render", "Redux", "Axios", "Router"]
     }
   ],
   "skills": ["Javascript", "react", "redux", "node", "vs code", "figma"],

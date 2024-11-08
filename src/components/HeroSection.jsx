@@ -1,7 +1,7 @@
 import { useLanguage } from "../context/LanguageContext";
 import { useMode } from "../context/ThemeContext";
 import { FaLinkedin } from "react-icons/fa";
-import heroImage from "../../public/assets/yeniResimler/myPhoto1.png";
+import heroImage from "../../public/assets/myPhoto2.jpg";
 import { FaGithub } from "react-icons/fa";
 function HeroSection() {
   const { t } = useLanguage();
@@ -25,7 +25,7 @@ function HeroSection() {
     >
       <div className="flex flex-col  w-full text-white gap-8 md:px-20">
         <p className="font-[700] text-[32px] text-[#CBF281]">almila</p>
-        <div className="flex h-full items-center md:flex-row flex-col">
+        <div className="flex h-full gap-10 items-center md:flex-row flex-col">
           <div className="w-full md:w-3/5  py-4 ">
             <p className="text-[54px] w-3/4 font-[700] text-[#CBF281]">
               {t("headerAboutMe")}
@@ -48,7 +48,7 @@ function HeroSection() {
             <img
               src={heroImage}
               alt="Developer"
-              className="rounded-lg shadow-lg w-full h-auto "
+              className="rounded-lg shadow-lg max-w-[280px] min-w-[280px] w-full h-auto "
             />
           </div>
         </div>

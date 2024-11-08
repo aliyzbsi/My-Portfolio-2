@@ -8,7 +8,7 @@ function Skills() {
 
   return (
     <section className="dark:bg-[#252128] py-8">
-      <div className="flex justify-center flex-col gap-8 md:flex-row ">
+      <div className="flex justify-center items-center md:items-start  flex-col gap-8 md:flex-row ">
         <div>
           <h1
             translate="no"
@@ -19,7 +19,7 @@ function Skills() {
         </div>
         <div className="grid grid-cols-2 md:grid-cols-2  lg:grid-cols-2 gap-4">
           {skills.map((skill) => (
-            <div key={skill.id} className="flex  items-center px-4 py-2  ">
+            <div key={skill.id} className="flex  items-center  px-4 py-2  ">
               <div className="flex items-center gap-2 font-semibold">
                 <img
                   src={skill.img}

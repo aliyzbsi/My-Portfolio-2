@@ -20,8 +20,25 @@
 
   "projects": [
     {
+      "id": 1,
+      "name": "Teknolojik Pizza",
+      "description": "Teknolojik Pizza adlı web sitesi, dijitalleşen gıda sektörüne yönelik olarak pizza siparişi simülasyonu veya pizza teslimat süreci gibi tematik bir deneyim sunmak amacıyla yapılmıştır. Kullanıcıların online yemek sipariş süreçlerini daha iyi anlamaları için hazırlananan sitede kullanıcı etkileşimi sağlamak adına interaktif bir yapı sağlanmıştır.",
+      "url": "https://teknolojik-pizza.vercel.app/",
+      "githubUrl": "https://github.com/aliyzbsi/teknolojik-pizza",
+      "dateCreated": "2024-10-12",
+      "technologies": [
+        "React",
+        "Cypress",
+        "Tailwind",
+        "Vercel",
+        "Axios",
+        "Toastify",
+        "Router"
+      ]
+    },
+    {
       "id": 2,
-      "name": "Workintech",
+      "name": "WORKINTECH COMMERCE",
       "description": " 'WORKINTECH COMMERCE' web sitesi, e-ticaret uygulamalarının işleyişini göstermek amacıyla oluşturulmuş bir platformdur. Kullanıcılara ürün listeleme, alışveriş sepeti ve sipariş yönetimi gibi işlevler sunarak eğitici bir deneyim sağlamaktadır. Frontend kısmı için React ve geliştirme ortamı olarak Vite kullanılmıştır. Daha fazla bilgi için siteyi ziyaret edebilirsiniz",
       "url": "https://ecommerceformypractice.vercel.app/",
       "githubUrl": "https://github.com/aliyzbsi/E-commerce-for-begin",
@@ -39,7 +56,7 @@
     },
     {
       "id": 3,
-      "name": "Journey",
+      "name": "To-Do App",
       "description": " 'alinintodolisti' adlı web sitesi, kullanıcıların görevlerini organize etmeleri için basit ve işlevsel bir yapılacaklar listesi oluşturma deneyimi sunmaktadır. Bu tür uygulamalar, kullanıcıların yapılacak görevleri düzenlemelerine, tamamladıklarında işaretlemelerine ve ilerlemelerini görmelerine olanak tanır.",
       "url": "https://alinintodolisti.vercel.app",
       "githubUrl": "https://github.com/aliyzbsi/ToDoApp",
@@ -53,6 +70,24 @@
 
         "Vercel"
       ]
+    },
+    {
+      "id": 4,
+      "name": "Ali Yüzbaşı Portfolio",
+      "description": "Geliştiricinin yeteneklerini ve projelerini sergilemek amacıyla oluşturulmuş bir platformdur. Kullanıcılara, yazılımcının yaptığı projeleri, teknik becerilerini ve deneyimlerini detaylı bir şekilde sunarak, potansiyel işverenlere ve müşterilere etkili bir şekilde kendini tanıtma fırsatı sağlar.",
+      "url": "https://example.com/proje1",
+      "githubUrl": "https://github.com/aliyzbsi/movieDB-with-Redux",
+      "dateCreated": "2023-11-04",
+      "technologies": ["React", "Tailwind", "Vercel"]
+    },
+    {
+      "id": 5,
+      "name": "MovieDB",
+      "description": "Site, kullanıcıların film verilerini keşfetmesine ve yönetmesine olanak tanıyan bir platformdur. Filmleri arama, listeleme ve detaylarına erişim gibi işlevler sunarak kullanıcı deneyimini artırmayı hedefler. Geliştirici, React ve Redux gibi modern web teknolojilerini kullanarak dinamik ve etkileşimli bir arayüz oluşturmuştur. Uygulama, bir API üzerinden film verilerini çekerek güncel içerik sağlar. Daha fazla bilgi için siteyi ziyaret edebilirsiniz.",
+      "url": "https://moviedb-redux.onrender.com",
+      "githubUrl": "https://github.com/aliyzbsi/movieDB-with-Redux",
+      "dateCreated": "2024-11-01",
+      "technologies": ["React", "Render", "Redux", "Axios", "Router"]
     }
   ],
 
